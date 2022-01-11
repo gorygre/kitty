@@ -1,0 +1,3 @@
+#!/bin/bash
+node purr/purr.js "$@" > output.purr
+python meow/meow.py output.purr

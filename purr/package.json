@@ -1,0 +1,11 @@
+{
+  "name": "kitty",
+  "version": "1.0.0",
+  "description": "virtualbox automation tool",
+  "main": "kitty",
+  "author": "Gregory McCall",
+  "dependencies": {
+    "handlebars": "^4.3.0",
+    "minimist": "^1.2.0"
+  }
+}
